@@ -9,7 +9,7 @@ author_profile: true
 
 # Teaching
 
-Teaching Assistant for the MSc course: "Artificial Intelligence for Security", PoliMi-Bocconi, 2019 - 2020. Course materials are available on Github.
+Teaching Assistant for the MSc course: "Artificial Intelligence for Security", PoliMi-Bocconi, 2019-2020. Course materials are available on Github ([2019](https://github.com/lucabenedetto/2019-ai-for-security), [2020](https://github.com/lucabenedetto/2020-ai-for-security)).
 
 # MSc Supervisions
 
