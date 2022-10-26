@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 Below you can find some project proposals, both are co-supervised by myself and [Dr. Andrew Caines](https://www.cl.cam.ac.uk/~apc38/).
-Feel free to email me to discuss any of the suggestions below, or any ideas that fit with my research interests.
+Feel free to email me to discuss any of the suggestions below, or any ideas that fit with my [research interests](https://lucabenedetto.github.io/).
 
 # Graph neural networks for knowledge tracing
 
