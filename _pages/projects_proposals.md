@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Below you can find some project proposals, both are co-supervised by myself and [Dr. Andrew Caines](https://www.cl.cam.ac.uk/~apc38/).
+Below you can find some project proposals.
 Feel free to email me to discuss any of the suggestions below, or any ideas that fit with my [research interests](https://lucabenedetto.github.io/).
 
 # Graph neural networks for knowledge tracing
@@ -45,4 +45,13 @@ References:
 - [[2](https://dl.acm.org/doi/abs/10.1145/3375462.3375517)] R2DE: a NLP approach to estimating IRT parameters of newly generated questions, LAK20
 - [[3](https://aclanthology.org/2021.ranlp-1.97/)] Towards the Application of Calibrated Transformers to the Unsupervised Estimation of Question Difficulty from Text, RANLP21
 - [[4](https://aclanthology.org/2022.acl-short.15/)] Predicting Difficulty and Discrimination of Natural Language Questions, ACL22
+
+# Modelling of students' misconceptions
+Given a set of student responses to a set of exam questions, the goal of this project is to develop an unsupervised approach to automatically detect common misconceptions, which are frequent across different students.
+Once such misconceptions are identified, they could be used to suggest content to target them (e.g. questions for formative assessment).
+
+# Difficulty-agnostic adaptive testing
+Adaptive testing consists in customising the exam that a student is given, with the goal of providing her with the questions that are the most useful for her (estimated) skill level.
+It is generally performed by leveraging questions’ difficulty for item selection.
+The goal of this project is to develop a difficulty-agnostic ML-based approach to minimise the number of questions that are used in adaptive testing, while still reaching an accurate estimation of students' skill level (according to a given threshold). 
 
