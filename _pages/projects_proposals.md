@@ -50,8 +50,18 @@ References:
 Given a set of student responses to a set of exam questions, the goal of this project is to develop an unsupervised approach to automatically detect common misconceptions, which are frequent across different students.
 Once such misconceptions are identified, they could be used to suggest content to target them (e.g. questions for formative assessment).
 
+Datasets:
+* ASSISTments ([link](https://sites.google.com/site/assistmentsdata/))
+* NeurIPS 2020 Education Challenge ([link](https://competitions.codalab.org/competitions/25449))
+* [Possibly] A private industrial dataset might be available for this task, in case of promising results on the public dataset.
+
 # Difficulty-agnostic adaptive testing
 Adaptive testing consists in customising the exam that a student is given, with the goal of providing her with the questions that are the most useful for her (estimated) skill level.
 It is generally performed by leveraging questions’ difficulty for item selection.
 The goal of this project is to develop a difficulty-agnostic ML-based approach to minimise the number of questions that are used in adaptive testing, while still reaching an accurate estimation of students' skill level (according to a given threshold). 
+
+Datasets:
+* ASSISTments ([link](https://sites.google.com/site/assistmentsdata/))
+* NeurIPS 2020 Education Challenge ([link](https://competitions.codalab.org/competitions/25449))
+* [Possibly] A private industrial dataset might be available for this task, in case of promising results on the public dataset.
 
