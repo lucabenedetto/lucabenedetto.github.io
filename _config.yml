@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Luca Benedetto"
 title_separator          : "-"
 name                     : &name "Luca Benedetto"
-description              : &description "" # Postdoc researcher at the University of Cambridge
+description              : &description "Faculty at Télécom SudParis (IP Paris), visiting researcher at the University of Cambridge"
 url                      : https://lucabenedetto.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lucabenedetto.github.io"  # maybe add lucabenedetto/
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Luca Benedetto"
-  avatar           : "profile.png"
-  bio              : "Postdoc researcher at the University of Cambridge, working on the application of Machine Learning and NLP to education."
-  location         : "Cambridge, UK"
+  avatar           : "profile_pic.jpeg"
+  bio              : "Maître de conférences at Télécom SudParis (IP Paris), working on the Machine Learning and NLP."
+  location         : "France"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.it/citations?user=ByiCCTgAAAAJ&hl=en&oi=ao"
-  email            :
+  email            : "luca.benedetto at pm.me"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -261,7 +261,7 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 # Plugins
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
