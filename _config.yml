@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Luca Benedetto"
-  avatar           : "profile_pic.jpeg"
+  avatar           : "profile.jpeg"
   bio              : "Maître de conférences at Télécom SudParis (IP Paris), working on the Machine Learning and NLP."
   location         : "France"
   employer         :
