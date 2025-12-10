@@ -15,6 +15,6 @@ Before that, I was a Research Associate at at the ALTA Institute of the Universi
 
 ## Research interest
 
-My focus is on the application of Machine Learning and Natural Language Processing to the educational domain, primarily working on the automated generation and calibration of exam content, the modelling of students' knowledge levels, and adaptive learning.
+My research is centered on Natural Language Processing and AI for Education; specifically, I focus on AI Fairness and Safety, computational psychometrics, and the automated generation and evaluation of learning and assessment content.
 
 
