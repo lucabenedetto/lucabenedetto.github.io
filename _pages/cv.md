@@ -18,7 +18,8 @@ Education
 
 Work experience
 ======
-* September 2022 - current: Postdoc Research Associate @ the University of Cambridge (Cambridge, UK)
+* October 2025 - current : Faculty at Telecom SudParis (France)
+* September 2022 - September 2025 : Postdoc Research Associate @ the University of Cambridge (Cambridge, UK)
 * May 2021 - June 2022: Data Scientist @ Cloud Academy (Mendrisio, Switzerland)
 * July 2017 - February 2018: Research Intern @ HP Security Labs (Bristol, UK)
 
