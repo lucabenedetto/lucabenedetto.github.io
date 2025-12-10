@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Luca Benedetto"
 title_separator          : "-"
 name                     : &name "Luca Benedetto"
-description              : &description "Postdoc researcher at the University of Cambridge"
+description              : &description "" # Postdoc researcher at the University of Cambridge
 url                      : https://lucabenedetto.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lucabenedetto.github.io"  # maybe add lucabenedetto/
