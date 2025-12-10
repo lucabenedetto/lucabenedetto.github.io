@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a postdoctoral research associate at the University of Cambridge, working within the Department of Computer Science and Technology.
-I am a member of the [NLIP](https://www.cl.cam.ac.uk/research/nl/) (Natural Language and Information Processing) research group and the Institute for Automated Language Teaching and Assessment ([ALTA](http://alta.cambridgeenglish.org/#)), as well as being affiliated with the [Cambridge Language Sciences](https://www.languagesciences.cam.ac.uk/) Interdiscriplinary Research Centre.
+Hi there! 
+I work at the intersection of Natural Language Processing and AI for Education as [Maître de conférence](https://en.wikipedia.org/wiki/Docent#France) at [Télécom SudParis](https://www.telecom-sudparis.eu/en/), a member school of [IP Paris](https://www.ip-paris.fr/). 
+Before that, I was a Research Associate at at the ALTA Institute of the University of Cambridge (within the [NLIP](https://www.cl.cam.ac.uk/research/nl/) group), and obtained my PhD from Politecnico di Milano, supervised by Prof. Paolo Cremonesi.
+
 
 ## Research interest
 
