@@ -7,9 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
+## Télécom SudParis
+
+Supervisor for the course [PRO3600](https://enseignements.telecom-sudparis.eu/fiche.php?c=PRO3600) ("Développement informatique"), 2025.
+
 ## University of Cambridge
 
-Guest lecturer (three sessions) for the Undegraduate course "[Machine Learning and Real World Data](https://www.cl.cam.ac.uk/teaching/2425/MLRD/)"
+Guest lecturer (three sessions) for the Undegraduate course "[Machine Learning and Real World Data](https://www.cl.cam.ac.uk/teaching/2425/MLRD/) (2024-25)"
 
 ## Politecnico di Milano
 
