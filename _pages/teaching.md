@@ -9,7 +9,14 @@ author_profile: true
 
 ## Télécom SudParis
 
-Supervisor for the course [PRO3600](https://enseignements.telecom-sudparis.eu/fiche.php?c=PRO3600) ("Développement informatique"), 2025.
+### Teaching
+Contributed to:
+- Language Models ([link](https://www-inf.telecom-sudparis.eu/COURS/CSC8614/Supports/)).
+- Advanced concepts of Deep Learning ([link](https://www-inf.telecom-sudparis.eu/COURS/CSC8608/Supports/)).
+
+### Supervisions
+- Supervised two groups for the course [PRO3600](https://enseignements.telecom-sudparis.eu/fiche.php?c=PRO3600) ("Développement informatique"), 2025/26.
+- Supervised two groups for the [Cassiopée project](https://www.telecom-sudparis.eu/ecole/les-projets-cassiopee/), 2025/26.
 
 ## University of Cambridge
 
