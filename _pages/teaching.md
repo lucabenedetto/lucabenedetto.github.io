@@ -29,6 +29,7 @@ Teaching Assistant for the MSc course: "Artificial Intelligence for Security", j
 
 ## Thesis Supervisions
 
+* (Ongoing) X. Chen, "Automatically evaluating the adequacy and relevance of assessment items with NLP", 2026
 * E. Gherardi, "Knowledge graphs in question difficulty estimation", 2023, [link](https://www.politesi.polimi.it/handle/10589/214996)
 * S. Sartoni, "A study of possible improvements in Knowledge Tracing with Natural Language Processing and self-attention", 2022, [link](https://www.politesi.polimi.it/handle/10589/186445)
 * G. Aradelli, "Transformers for question difficulty estimation from text", 2020, [link](https://www.politesi.polimi.it/handle/10589/170785)
